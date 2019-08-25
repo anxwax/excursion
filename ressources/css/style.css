@@ -16,7 +16,7 @@ html {
     margin-bottom: 20px;
 }
 
-.header h1, {
+.header h1 {
     font-weight: 400;
     font-size: 50px;
 }
@@ -34,4 +34,15 @@ html {
 .body p {
     color: grey;
     font-size: 21px;
+}
+
+.body .icon {
+    margin-top: 30px;
+}
+
+.footer {
+    width: 100%;
+    color: grey;
+    font-size: 21px;
+    text-align: end;
 }
